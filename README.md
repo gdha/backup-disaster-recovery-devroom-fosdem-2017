@@ -1,5 +1,4 @@
 # FOSDEM 2017 - Backup and Disaster Recovery Devroom Call for Participation
-=========================================================================
 
 **Please forward to any project or individual that might be interested in
 participating in this devroom!**
@@ -36,9 +35,9 @@ you want to have a longer or a shorter slot.)
 
 ## Dates
 
- - Submission Deadline: 9th Dec 2016
- - Acceptance Notification: 17th Dec 2016
- - Final Schedule Posted: 20th Dec 2016
+ - Submission Deadline: 2th Dec 2016
+ - Acceptance Notification: 9th Dec 2016
+ - Final Schedule Posted: 11th Dec 2016
 
 
 ## How to submit
