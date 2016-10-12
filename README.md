@@ -9,7 +9,7 @@ a free and non-commercial two-day weekend event that offers open source
 contributors a place to meet, share ideas and collaborate.
 
 The _"Backup and Disaster Recovery"_ Devroom will take for the very first 
-time place on Saturday 4 February, 2017 at FOSDEM, at Université Libre 
+time place on **Saturday 4 February, 2017** at FOSDEM, at Université Libre 
 de Bruxelles, in Brussels, Belgium.
 
 
@@ -36,9 +36,9 @@ you want to have a longer or a shorter slot.)
 
 ## Dates
 
-Submission Deadline: 9th Dec 2016
-Acceptance Notification: 17th Dec 2016
-Final Schedule Posted: 20th Dec 2016
+ - Submission Deadline: 9th Dec 2016
+ - Acceptance Notification: 17th Dec 2016
+ - Final Schedule Posted: 20th Dec 2016
 
 
 ## How to submit
