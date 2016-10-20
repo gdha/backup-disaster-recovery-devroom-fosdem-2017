@@ -9,7 +9,8 @@ contributors a place to meet, share ideas and collaborate.
 
 The _"Backup and Disaster Recovery"_ Devroom will take for the very first 
 time place on **Saturday 4 February, 2017** at FOSDEM, at Université Libre 
-de Bruxelles, in Brussels, Belgium.
+de Bruxelles, in Brussels, Belgium. The room allocated to us is **AW1.121**
+and has a capacity for 82 people.
 
 
 The devroom is currently looking for content in the form of talks and 
@@ -42,7 +43,7 @@ you want to have a longer or a shorter slot.)
 
 ## How to submit
 
-Please use the [Pentabarf](https://penta.fosdem.org/submission/FOSDEM17)
+Please use the [Pentabarf (https://penta.fosdem.org/submission/FOSDEM17)](https://penta.fosdem.org/submission/FOSDEM17)
 system to submit your proposals.
 
 And, follow the following rules (**READ CAREFULLY**):
